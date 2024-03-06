@@ -7,7 +7,6 @@ const HEAL_VALUE = 20;
 
 // 사용자와 몬스터의 최대 체력 (차후 사용자로 부터 입력 받기에 let 으로 설정)
 let chosenMaxLife = 100;
-
 let currentMonsterHealth = chosenMaxLife;
 let currentPlayerHealth = chosenMaxLife;
 let hasBonusLife = true;
